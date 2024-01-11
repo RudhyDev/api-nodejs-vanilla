@@ -9,6 +9,6 @@
     "dev":"npx nodemon src/index.js"
   },
   "dependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.22"
   }
 }
